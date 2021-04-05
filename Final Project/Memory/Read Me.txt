@@ -1,7 +1,0 @@
-This is a basic memory game. You flip the cards to make matches in as few moves as possible.
-
-Currently there aren't any issues with the game.
-
-I don't plan on any future relases.
-
-Copyright Georgina Jenkins
