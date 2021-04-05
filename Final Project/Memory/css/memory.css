@@ -1,0 +1,30 @@
+.grid{
+   display: flex;
+   flex-wrap: wrap; 
+   height: 300px;
+   width: 400px;
+   padding:10% 40%;
+   
+}
+body {
+   background-image: url("../media/winter.jpg");
+   background-size: cover;
+}
+h1 {
+   margin: 20px 10px 0px;
+   padding: 0px 200px 0px 200px;
+   text-align: center;
+}
+h3{
+   margin: 20px 10px 0px;
+   padding: 0px 200px 0px 200px;
+   text-align: center;
+}
+form{
+   text-align: center;
+}
+li{
+   text-align: center;
+   color: black;
+   background-color: white;
+}

@@ -1,0 +1,9 @@
+Bug Swatter
+
+Swat the bee with the flyswatter as many times as you can in 60 seconds.
+
+Your score and remaining time is listed in the upper left corner.
+
+Press play on the sound bar at the bottom for sound effects if you'd like them.
+
+Press the "New Game" button to start a new game.

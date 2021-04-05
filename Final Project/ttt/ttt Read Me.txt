@@ -1,0 +1,7 @@
+Tic Tac Toe
+
+This is a 2-Player game.
+
+Player 'X' and player 'O' take turn to see who can make the first line.
+
+Click the "New Game" button to start over. 

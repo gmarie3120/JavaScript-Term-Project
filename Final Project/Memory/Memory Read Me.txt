@@ -1,0 +1,9 @@
+Memory
+
+Click on the music notes to make matches of musical instruments.
+
+Your score will be tallied in the score section.
+
+Try to match as many cards with as few moves as possible.
+
+Click the "New Game" button to start over.
